@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    </head>
+    <body>
+        <ol type="decimal">
+            <li> Quá trình hình thành </li>
+        <ul type="square">
+            <li> Từ tháng 01/2012 đến 03/2012: Quá trình hoàn thiện hệ thống cửa hàng </li>
+            <li> Tháng 03/2012: Chính thức khai trương website </li>
+        </ul>
+            <li> Đội ngũ nhân sự </li>
+        <ul type="square">
+            <li> Phòng kiểm soát nội bộ </li>
+            <li> Khối tài chính </li>
+            <li> Khối hành chính nhân sự </li>
+        </ul>
+    </ol>
+        </body>
+        </html>
