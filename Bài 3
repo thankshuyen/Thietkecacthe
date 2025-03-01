@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+</head>
+<body>
+    <table width="100%" border="1" cellspacing="0" cellpadding="10">
+        <tr>
+            <td colspan="3" height="70" bgcolor="#f8d7a3" align="center">HEADER</td>
+        </tr>
+        <tr>
+            <td colspan="3" height="30" bgcolor="#aac4f8" align="center">MENU NGANG</td>
+        </tr>
+        <tr>
+            <td rowspan="2" width="auto" bgcolor="#c8e6c9" align="center">SIDEBAR</td>
+            <td colspan="2" height="150" bgcolor="#f8b6b6" align="center">SLIDER</td>
+        </tr>
+        <tr>
+            <td width="300" bgcolor="#d1c4e9" align="center">SẢN PHẨM NỔI BẬT 1</td>
+            <td width="300" bgcolor="#d1c4e9" align="center">SẢN PHẨM NỔI BẬT 2</td>
+        </tr>
+        <tr>
+            <td height="90" bgcolor="#f7e09e" align="center">THÔNG TIN CÔNG TY</td>
+            <td bgcolor="#f7e09e" align="center">Các đường link FOOTER 1</td>
+            <td bgcolor="#f7e09e" align="center">Các đường link FOOTER 2</td>
+        </tr>
+    </table>
+</body>
+</html>
