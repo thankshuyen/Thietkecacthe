@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<table border cellspacing="0" cellpadding="5">
+        <tr>
+            <th rowspan="2">STT</th>
+            <th rowspan="2">Họ tên</th>
+            <th colspan="3">Điểm</th>
+        </tr>
+        <tr>
+            <td>Toán</td>
+            <td>Văn</td>
+            <td>Ngoại ngữ</td>
+        </tr>
+        <tr>
+            <td>1</td>
+            <td>Nguyễn Thanh Huyền</td>
+            <td>10</td>
+            <td>10</td>
+            <td>10</td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>Vũ Quỳnh Hương</td>
+            <td>10</td>
+            <td>10</td>
+            <td>10</td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td>Nguyễn Thu Trang</td>
+            <td>10</td>
+            <td>10</td>
+            <td>10</td>
+        </tr>
+        <tr>
+            <td colspan="2">Tổng cộng</td>
+            <td colspan="3">90</td>
+        </tr>
+</table>
+</body>
+</html>
